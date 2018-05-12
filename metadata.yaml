@@ -1,0 +1,33 @@
+_repo: William-the-Third_36895
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Traill, H. D. (Henry Duff)
+    alias: Traill, Henry Duff
+    birthdate: 1842
+    deathdate: 1900
+    gutenberg_agent_id: '2254'
+    url: http://www.gutenberg.org/2009/agents/2254
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Duff_Traill
+description: William III (1650-1702) was Protestant king of England, ruling jointly
+  with his wife Mary II during the William and Mary" period. This 1888 work traces
+  William's life and career, including his birth as Holland's Prince of Orange as
+  well as his campaigns, issues with Parliament, and the Glorious Revolution that
+  brought him to the throne.
+gutenberg_issued: '2011-07-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History -- William and Mary, 1689-1702'
+- !lcsh 'William III, King of England, 1650-1702'
+- !lcc 'DA'
+title: William the Third
+url: http://www.gutenberg.org/ebooks/36895
